@@ -2,4 +2,4 @@
 
 Adicionado linha 1
 
-Adicionar linha 2
+Adicionado linha 2
